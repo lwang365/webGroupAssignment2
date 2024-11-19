@@ -1,4 +1,4 @@
-
+--Due date: Nov24, 2024
 -- Database: `assignment2` and php web application user
 CREATE DATABASE assignment2;
 GRANT USAGE ON *.* TO 'appuser'@'localhost' IDENTIFIED BY 'password';
